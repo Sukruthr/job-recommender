@@ -20,7 +20,7 @@ An intelligent job recommendation system powered by AI that analyzes your resume
 
 1. Clone the repository:
 ```bash
-git clone [<repository-url>](https://github.com/Sukruthr/job-recommender)
+git clone https://github.com/Sukruthr/job-recommender
 cd job-recommender
 ```
 
